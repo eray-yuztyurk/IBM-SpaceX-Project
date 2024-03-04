@@ -20,11 +20,11 @@ Throughout the project, predictive modeling and data analysis methodologies were
 
 -----
 
-Data collection methodology​
-- Requested via SpaceX REST API and Scrapping historical data from Web (Wikipedia)​
-Performing data wrangling​
-- Cleaning, transforming, and preparing the collected data for analysis, ensuring its quality and suitability for further processing​
-Performing exploratory data analysis (EDA) using visualization and SQL​
-Performing interactive visual analytics using Folium and Plotly Dash​
-Performing predictive analysis using classification models​
-- Logistic Regression, Decision Tree, K-Nearest Neighbors and SVM models are built using scikit learn library, searched for best hyperparameters via GridSearchCV with 10-fold,     tuned with best hyperparameters found and results are evaluated with accuracy score.​
+- Data collection methodology​
+-- Requested via SpaceX REST API and Scrapping historical data from Web (Wikipedia)​
+- Performing data wrangling​
+-- Cleaning, transforming, and preparing the collected data for analysis, ensuring its quality and suitability for further processing​
+- Performing exploratory data analysis (EDA) using visualization and SQL​
+- Performing interactive visual analytics using Folium and Plotly Dash​
+- Performing predictive analysis using classification models​
+-- Logistic Regression, Decision Tree, K-Nearest Neighbors and SVM models are built using scikit learn library, searched for best hyperparameters via GridSearchCV with 10-fold,     tuned with best hyperparameters found and results are evaluated with accuracy score.​
